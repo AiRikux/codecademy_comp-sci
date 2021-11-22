@@ -15,3 +15,12 @@ Doubly linked lists is similar to linked lists. However, the nodes have points f
 Files:
 
 * doubly_linked_lists.py
+
+### Queues
+
+Queues are data structure that contains an ordered set of data. For this structure we can use linked lists or doubly linked lists.
+
+Files:
+
+* queues.py
+* queues_node.py
