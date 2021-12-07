@@ -2,13 +2,23 @@
 
 This is some part of my work as I'm doing the Computer Science Career Path by Codecademy.
 
+Due to the difference in variable names I separate files that were created by me and those that were provided by Codecademy.
+
 ## CS101: Introduction to Programming
 
-I am trying to make a Text Adventure game for the final project. Here I make a simple scenario where user need to buy an ice cream. Each choices will lead to a different path.
+I am trying to make a Text Adventure game for the final project. Here I make a simple scenario where user need to buy an ice cream. Each choice will lead to a different path.
 
 ## CS102: Data Structures and Algorithms
 
-The file node.py will be used in multiple segments.
+The file node.py is provided by Codecademy for this course.
+
+### Node
+
+Nodes are the building blocks of data structure.
+
+Files:
+
+* my_node.py
 
 ### Doubly Linked Lists
 
