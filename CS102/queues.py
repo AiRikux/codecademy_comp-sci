@@ -1,4 +1,4 @@
-from queue_node import Node
+from node import Node
 
 
 class Queue:
