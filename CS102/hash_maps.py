@@ -26,3 +26,10 @@ class HashMap:
 		# get index with same way as assign
 		array_index = self.compressor(self.hash(key))
 		return self.array[array_index]
+
+# create the object
+hash_map = HashMap(20)
+# assign key-value
+hash_map.assign("gneiss", "metamorphic")
+# get the value using the key
+print(hash_map.retrieve("gneiss"))
