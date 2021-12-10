@@ -45,3 +45,11 @@ Files:
 * my_stack.py - material about stack that I have done
 * stack.py - a file by Codecademy for the Tower of Hanoi project
 * tower_of_hanoi.py
+
+### Hash Maps
+
+An action where we turn strings into numerical number. Where if we look the numerical values up from an array we will be able to find the value.
+
+Files:
+
+* hash_maps.py
