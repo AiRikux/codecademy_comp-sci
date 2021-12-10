@@ -22,3 +22,7 @@ class HashMap:
 		# assign value to this index
 		self.array[index] = value
 
+	def retrieve(self, key):
+		# get index with same way as assign
+		array_index = self.compressor(self.hash(key))
+		return self.array[array_index]
