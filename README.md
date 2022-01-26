@@ -52,4 +52,5 @@ An action where we turn strings into numerical number. Where if we look the nume
 
 Files:
 
-* hash_maps.py
+* hash_maps.py - material about hashmap that I have done
+* blossom.py
