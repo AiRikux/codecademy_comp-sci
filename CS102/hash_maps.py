@@ -77,3 +77,16 @@ hash_map = HashMap(20)
 hash_map.assign("gneiss", "metamorphic")
 # get the value using the key
 print(hash_map.retrieve("gneiss"))
+
+# create hash map
+hash_map = HashMap(15)
+
+# assign values
+hash_map.assign('gabbro','igneous')
+hash_map.assign('sandstone','sedimentary')
+hash_map.assign('gneiss','metamorphic')
+
+# retrieve and print out
+print(hash_map.retrieve('gabbro'))
+print(hash_map.retrieve('sandstone'))
+print(hash_map.retrieve('gneiss'))
