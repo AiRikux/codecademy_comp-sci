@@ -103,13 +103,13 @@ else:
 	print(f"Aww {age} months old! They're easier to care since they're an adult~")
 
 print("Are you particularly looking for a friendly one or not?")
-friendly = input("Type 'Yes' or 'No'. ")
+friend = input("Type 'Yes' or 'No'. ")
 
 # while loop to check input
-while friendly != "Yes" and friendly != "No":
+while friend != "Yes" and friend != "No":
 	friend = input("So do you want to hug them or not? ")
 else:
-	if friendly == "Yes":
+	if friend == "Yes":
 		friendly = True
 	else:
 		friendly = False
