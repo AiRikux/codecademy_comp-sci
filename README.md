@@ -6,7 +6,17 @@ Due to the difference in variable names I separate files that were created by me
 
 ## CS101: Introduction to Programming
 
+### Object Oriented Programming
+Here we learn about Classes. In the project hamster.py is where we learn to create a real-life scenario of a pet into a class. I chose hamsters because I have one cute hamster with me <3
+
+Files:
+* hamster.py
+
+### Final Project
 I am trying to make a Text Adventure game for the final project. Here I make a simple scenario where user need to buy an ice cream. Each choice will lead to a different path.
+
+Files:
+* ice_cream_shop.py
 
 ## CS102: Data Structures and Algorithms
 
